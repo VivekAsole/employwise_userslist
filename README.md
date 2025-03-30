@@ -26,8 +26,8 @@ Make sure you have the following installed:
 ### 2️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/simple-react-project.git
-cd simple-react-project
+git clone https://github.com/VivekAsole/employwise_userslist.git
+cd employwise_userslist
 ```
 
 ### 3️⃣ Install Dependencies
